@@ -1,4 +1,3 @@
-
 # Lyra Horton's Programming Portfolio - A22024
 
 ## Tech Certifications
