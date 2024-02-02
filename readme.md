@@ -24,7 +24,7 @@ OOP graphical game using sound and images for a full user experience.
 ### DriveCars
 OOP graphical game using sound and images for a full user experience.
 
-![Gameplay](<img width="496" alt="DriveCars" src="https://github.com/lyraeho/Programming-Portfolio/assets/142616800/576bb77f-4166-4cbb-99fa-242c2ef69a87">)
+![Gameplay](https://github.com/lyraeho/Programming-Portfolio/assets/142616800/7cf2b5f5-80ef-4a9d-bb90-23eb6e2315b5)
 
 [Source Code]()
 
